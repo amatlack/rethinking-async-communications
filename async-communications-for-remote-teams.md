@@ -70,7 +70,7 @@ For more complex communications, such as announcing a new process or tooling cha
 
 ### Strive for inclusivity
 
-Strive for inclusivity in all aspects of communication. Use universally understood date formats, avoid acronyms without context, and be mindful of time zones when scheduling meetings or sending messages. Use inclusive language, and make sure your communications are accessible by adding alt-text for images, using semantic headings, and writing descriptive link texts.
+Strive for inclusivity in all aspects of communication. Prefer universally understood date formats, avoid acronyms without context, and be mindful of time zones when scheduling meetings or sending messages. Be intentional about using inclusive language, and make sure your communications are accessible by adding alt-text for images, using semantic headings, and writing descriptive link texts.
 
 ### Use emoji
 
