@@ -14,6 +14,7 @@ As remote work continues to evolve, so too will this guidance. Contributions and
 * [Quick reference](quick-ref.md)
 * [Tips for leaders](tips-for-leaders.md)
 * [Maturity model](maturity-model.md)
+  * One-page maturity model overview [.md](./one-page-maturity-overview.md) | [.pdf](./one-page-maturity-overview.pdf)
 
 ## License
 
