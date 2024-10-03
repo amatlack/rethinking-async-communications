@@ -10,7 +10,7 @@ But remote work is about more than just location; it’s a mindset shift. Done w
 
 This document draws inspiration [from GitHub’s experience](https://github.com/github/how-engineering-communicates) to offer practical guidance on improving the quality and efficiency of communication in a remote-first world. These recommendations are designed as a core foundation to help teams move away from defaulting to synchronous practices. Teams are encouraged to adapt them to fit their specific needs, while maintaining a shared “API” for seamless cross-team communication.
 
-As remote work continues to evolve, so too will this guidance. Contributions and improvements are not just welcome — they’re encouraged.
+As remote work continues to evolve, so too will this guidance. Contributions and improvements are not just welcome — [they’re encouraged](./github/CONTRIBUTING.md).
 
 # Guiding principles
 
