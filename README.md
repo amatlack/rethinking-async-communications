@@ -13,7 +13,7 @@ As remote work continues to evolve, so too will this guidance. Contributions and
 * [Rethinking async communications](async-communications-for-remote-teams.md)
 * [Quick reference](quick-ref.md)
 * [Tips for leaders](tips-for-leaders.md)
-* [Maturity model](maturity-model.md)
+* [Coming soon] [Maturity model](maturity-model.md)
 
 ## License
 
