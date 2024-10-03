@@ -54,7 +54,7 @@ The best way to work in the open and to make that work visible is to use tools a
 
 Ways to get started:
 
-- Set up and maintain a leadership team project board so your team has better insight into what's currently in flight
-- Seek feedback before decisions are made (rather than asking for feedback on a decision); invite collaboration directly on your issues, documents, and pull requests; and document how you incorporate the team's feedback (to show you're willing to act on it, and thus it was worth their time contributing)
-- Use queries in your work-tracking tool of choice to automate team status updates and weekly reports as much as possible and free more of everyone's time (if someone's already reported a status on an issue, they shouldn't have to repeat it in chat or in a meeting)
+- Set up and maintain a leadership team project board so your team has better insight into what's currently in flight.
+- Seek feedback before decisions are made (rather than asking for feedback on a decision); invite collaboration directly on your issues, documents, and pull requests; and document how you incorporate the team's feedback (to show you're willing to act on it, and thus it was worth their time contributing).
+- Use queries in your work-tracking tool of choice to automate team status updates and weekly reports as much as possible and free more of everyone's time (if someone's already reported a status on an issue, they shouldn't have to repeat it in chat or in a meeting).
 - Share a high-level weekly status report with your team and the broader organization to keep everyone informed, aligned, and aware of potential collaboration points.
